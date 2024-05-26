@@ -10,8 +10,6 @@ jeffrey.Apellido = Console.ReadLine();
 
 Console.WriteLine("Ingrese su edad: ");
 jeffrey.Edad = Convert.ToInt32(Console.ReadLine());
-if (jeffrey.Edad < 17 & jeffrey.Edad > 100)
-    Console.WriteLine("Edad no permitida");
 
 Console.WriteLine("Ingrese su carrera: ");
 jeffrey.Carrera = Console.ReadLine();
