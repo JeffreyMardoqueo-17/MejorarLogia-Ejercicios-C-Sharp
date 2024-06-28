@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic; // Necesario para usar List<T>
+using System.Collections.Generic;
 
 namespace Delegados
 {
